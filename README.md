@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi there! I'm Prateek, a passionate software developer with experience in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and various other technologies. I love solving complex problems and exploring new advancements in tech.
+Hi there! I'm Prateek, a passionate software developer skilled in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and more. I thrive on solving complex problems and diving into new technologies.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Prateekcodi)
 
@@ -26,7 +26,17 @@ Hi there! I'm Prateek, a passionate software developer with experience in [JavaS
 
 ## Contributions
 
-![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=Prateekcodi&theme=react-dark&hide_title=true&area=true&custom_title=Contribution%20Graph)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Prateekcodi&theme=react-dark&hide_title=true&area=true&custom_title=Contribution%20Graph)
+
+## Achievements
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateekcodi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekcodi&layout=compact&theme=radical)
+
+## Animated Progress Bar
+
+Here's an animated progress bar:
+![Animated Progress Bar](https://raw.githubusercontent.com/Prateekcodi/Prateekcodi/main/animated-progress-bar.gif)
 
 ## Let's Connect
 
