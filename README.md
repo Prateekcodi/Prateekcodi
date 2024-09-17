@@ -1,33 +1,38 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prateekcodi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prateekcodi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# Welcome to Prateekcodi's GitHub Profile
 
-###
+![Header](https://raw.githubusercontent.com/Prateekcodi/Prateekcodi/main/header.png)
 
-<div align="left">
-  <a href="www.linkedin.com/in/prateek-pal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/k_benc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+## About Me
 
-###
+Hi there! I'm Prateek, a passionate software developer with experience in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [C++](https://en.wikipedia.org/wiki/C%2B%2B), and various other technologies. I love solving complex problems and exploring new advancements in tech.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Prateekcodi/count.svg?"  />
-</div>
+![Profile View Counter](https://komarev.com/ghpvc/?username=Prateekcodi)
 
-###
+> "The best way to predict the future is to invent it." — Alan Kay
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31hhuaqdfqkp6j6w2i3oj6br7vai">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hhuaqdfqkp6j6w2i3oj6br7vai&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Animation Quote](https://media.giphy.com/media/3o7aD4THeaLtv7g1iI/giphy.gif)
 
-###
+## Projects
+
+- [**Project 1**](https://github.com/Prateekcodi/project1): Description of Project 1.
+- [**Project 2**](https://github.com/Prateekcodi/project2): Description of Project 2.
+- [**Project 3**](https://github.com/Prateekcodi/project3): Description of Project 3.
+
+## Skills
+
+![JavaScript Skills](https://img.shields.io/badge/JavaScript-Advanced-brightgreen)
+![C++ Skills](https://img.shields.io/badge/C%2B%2B-Intermediate-blue)
+![Git Skills](https://img.shields.io/badge/Git-Expert-red)
+
+## Contributions
+
+![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=Prateekcodi&theme=react-dark&hide_title=true&area=true&custom_title=Contribution%20Graph)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/prateekcodi/)
+- [Twitter](https://twitter.com/prateekcodi)
+
+Feel free to reach out if you want to collaborate or just chat about tech!
+
+![Footer](https://raw.githubusercontent.com/Prateekcodi/Prateekcodi/main/footer.png)
