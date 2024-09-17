@@ -33,6 +33,10 @@ Here’s an animated progress bar example:
 <div>
     <a href="#"><img alt="Prateek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodi&custom_title=Prateek%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
 </div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Prateekcodi&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF3C74&currStreakNum=FFFFFF&dates=FF3C74&sideLabels=FFFFFF&fire=FF3C74&sideNums=FFFFFF&currStreakLabel=62C4FF&border=FF3C74"/>
+</div>
+
 
 
 ## Let's Connect
