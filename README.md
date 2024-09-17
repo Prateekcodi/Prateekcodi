@@ -8,7 +8,7 @@ Hi there! I'm Prateek, a passionate software developer skilled in [JavaScript](h
 
 > "The best way to predict the future is to invent it." — Alan Kay
 
-![Animation Quote](https://media.giphy.com/media/3o7aD4THeaLtv7g1iI/giphy.gif)
+![Animation Quote]([https://media.giphy.com/media/3o7aD4THeaLtv7g1iI/giphy.gif](https://blossom.co/wp-content/uploads/2015/04/AlanKayQuote.jpg))
 
 ## Projects
 
