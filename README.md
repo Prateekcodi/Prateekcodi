@@ -31,3 +31,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Prateekcodi/Prateekcodi/output/snake.svg" alt="Snake animation" />
+
+###
